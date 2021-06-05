@@ -1,6 +1,6 @@
 # 도서 HTML5 독학백서 실전 예제
 
-도서 HTML5 독학백서의 Chapter 06. 실전 예제 따라하기 실습 코드입니다. HTML 입문자에게 적합한 난이도이며 HTML, CSS만으로 작성되었습니다. [[Demo]](https://coach-oox.github.io/html-shopping-mall/)
+도서 HTML5 독학백서의 Chapter 06. 실전 예제 따라하기 실습 코드입니다. HTML 입문자에게 적합한 난이도이며 HTML, CSS만으로 작성되었습니다. [[Demo]](https://dalmoori.github.io/final-html5-2021/)
 
 ✅ [HTML5 독학백서 전체 코드 보기](https://github.com/dalmoori/basic-html5-2021)
 
