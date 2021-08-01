@@ -4,6 +4,7 @@
 
 - [Demo 사이트 보기](https://dalmoori.github.io/final-html5-2021/)
 - [HTML5 독학백서 전체 코드 보기](https://github.com/dalmoori/basic-html5-2021)
+- 질문은 [Issue](https://github.com/dalmoori/final-html5-2021/issues)로 작성해주세요.
 
 ## eBook (전자책) 구매 링크
 
